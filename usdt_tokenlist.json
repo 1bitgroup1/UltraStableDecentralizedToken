@@ -1,25 +1,16 @@
 {
-  "name": "Ultra Stable Decentralized Token List",
-  "logoURI": "https://aquamarine-obedient-hookworm-978.mypinata.cloud/ipfs/bafkreic7dzxukhjlhcau5l3m25ptiz3hvkv4cxniyipjngmen3v2bassvm",
-  "keywords": [
-    "usdt",
-    "stablecoin",
-    "tron"
-  ],
-  "timestamp": "2025-03-25T17:48:22Z",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
+  "name": "UltraStableDecentralizedToken",
+  "logoURI": "https://aquamarine-obedient-hookworm-978.mypinata.cloud/ipfs/bafkreidog64rqrentk3zcohbux7dpahqsujpj2daygb6rcee4c7llqnalu",
+  "keywords": ["stable", "usdt", "decentralized", "ultra"],
+  "timestamp": "2025-03-25T20:30:00+00:00",
   "tokens": [
     {
-      "chainId": 728126428,
+      "chainId": 728126428,  // Tron Mainnet ID for reference
       "address": "TRP5ekqq98guZB8tnk37cAnWYuX6m5Qy1m",
       "name": "Ultra Stable Decentralized Token",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://aquamarine-obedient-hookworm-978.mypinata.cloud/ipfs/bafkreic7dzxukhjlhcau5l3m25ptiz3hvkv4cxniyipjngmen3v2bassvm"
+      "logoURI": "https://aquamarine-obedient-hookworm-978.mypinata.cloud/ipfs/bafkreidog64rqrentk3zcohbux7dpahqsujpj2daygb6rcee4c7llqnalu"
     }
   ]
 }
